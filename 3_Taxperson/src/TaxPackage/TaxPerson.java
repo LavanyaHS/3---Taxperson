@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Iterator;
 
 /*
-*@author Jaishree
+*@author Lavanya
 *This class asks user to select an item code ,calculates tax and prints total cost of the item.
 */
 public class TaxPerson {
